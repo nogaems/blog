@@ -9,14 +9,19 @@ SITEURL = ''
 THEME = 'pelican-bold'
 
 PATH = 'content'
-STATIC_PATHS = ['blog', 'downloads', 'media']
+STATIC_PATHS = ['blog', 'downloads', 'media',
+                'extra'
+                ]
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
 OUTPUT_PATH = 'docs/'
 
 ARTICLE_PATHS = ['blog']
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
 
-#SITESUBTITLES = ('Надпись слева', 'и ещё одна надпись справа')
 SITESUBTITLES = ('No matter how fast I run', 'I cannot run away from the pain')
 DISPLAY_PAGES_ON_MENU = True
 DISQUS_SITENAME = None
