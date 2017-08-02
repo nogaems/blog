@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'nogaems'
 SITENAME = 'All we need a blog'
-SITEURL = ''
+SITEURL = 'https://nogaems.github.io'
 
 THEME = 'pelican-bold'
 
@@ -34,7 +34,7 @@ TIMEZONE = 'Europe/Moscow'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = 'atom.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
