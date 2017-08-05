@@ -1,0 +1,3 @@
+[submodule "pelican-ert"]
+	path = pelican-ert
+	url = https://github.com/nogaems/pelican-ert
