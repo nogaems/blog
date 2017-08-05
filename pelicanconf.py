@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+PLUGIN_PATHS = ['./']
+PLUGINS = ['pelican-ert']
+
 AUTHOR = 'nogaems'
 SITENAME = 'All we need a blog'
 SITEURL = 'https://nogaems.github.io'
