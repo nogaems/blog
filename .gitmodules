@@ -1,3 +1,7 @@
 [submodule "pelican-ert"]
 	path = pelican-ert
 	url = https://github.com/nogaems/pelican-ert
+[submodule "pelican-bold"]
+	path = pelican-bold
+	url = https://github.com/nogaems/pelican-bold.git
+
