@@ -16,7 +16,7 @@ I value diversity and inclusion, am not denying that sexism exists, and don’t 
 
 Psychological safety is built on mutual respect and acceptance, but unfortunately our culture of shaming and misrepresentation is disrespectful and unaccepting of anyone outside its echo chamber.
 
-Despite what the public response seems to have been, I've gotten many†personal messages 
+Despite what the public response seems to have been, I've gotten many personal messages 
 from fellow Googlers expressing their gratitude for bringing up these very important issues 
 which they agree with but would never have the courage to say or defend because of our 
 shaming culture and the possibility of being fired. This needs to change.
@@ -56,7 +56,7 @@ Only facts and reason can shed light on these biases, but when it comes to diver
  
 ### Possible non-bias causes of the gender gap in tech​<sup>[3](#note-3)</sup>
 
-Possible non-bias causes of the gender gap in tech​At Google, we’re regularly told that implicit (unconscious) and explicit biases are holding women back in tech and leadership. Of course, men and women experience bias, tech, and the workplace differently and we should be cognizant of this, but it’s far from the whole story. 
+Possible non-bias causes of the gender gap in tech At Google, we’re regularly told that implicit (unconscious) and explicit biases are holding women back in tech and leadership. Of course, men and women experience bias, tech, and the workplace differently and we should be cognizant of this, but it’s far from the whole story. 
  
 On average, men and women biologically differ in many ways. These differences aren’t just socially constructed because: 
 
