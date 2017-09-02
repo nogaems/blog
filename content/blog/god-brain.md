@@ -2,6 +2,7 @@ Title: Бог в нашем мозге?
 Date: 2017-08-04 13:54
 Modified: 2017-08-04 13:54
 Category: Translations
+Authors: nogaems
 Tags: god, brain
 Slug: god-brain
 
