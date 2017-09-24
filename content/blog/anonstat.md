@@ -6,7 +6,7 @@ Slug: anonstat
 Authors: nogaems
 Summary: Вместо очередного перевода
 
-### Background
+# Background
 Nowadays collection of statistics looks more like spying, in fact it really is. It uses all possible forms of tracking users. It starts from some easiest actions like saving your IP and even MAC-addreses. Then it goes further. People who do this are producing such horrible practices as fingerprints, based on hardware differences. For example, they are drawing little canvases in your browser for few hundreds times in a row with mutlitple minor differences (say hello to your PC performance when you are browsing your dear facebook); you cannot even see this canvases because of their implementation, but this drawing uses your GPU directly and in various browsers paired with many GPUs this set of resulting canvases will be different. This information is used to indentify people against their will (is your favorite facebook and youtube asked your permissions for this?) and now this it not just an information, this becomes a product.
 
 Unfortunately, advertising industry is a huge field of human activity. Due to increasing supply manufacturers are trying to increase people's demand of their products. To force people buy things which they would never have bought normally, they don't feel ashamed to use any available methods. Giant corporations spend billions of dollars every year to lobby the laws that are convenient to them and making easier to implement their aggressive marketing politics.
@@ -17,7 +17,7 @@ So, why this statistics are so important to them and they are ready to spend the
 
 In this situation no one is bothering about people's feelings, ethics and all these ridiculous to the media giants and ads networks things. It's just increases their profits and this is enoght reason to do this no matter what. And just yet another sad thing there is that people, who are using such tools, like Google Analytics©®™, not always are evil and often don't even want to be involved in this awful spying on the users. They are just using it in order to know how much people reading their blogs and watching their photos, and often those peole don't even know what kind of a turd they are including into their personal sites.
 
-#### About
+## About
 Basing on this background, people forgot, that collection of visitor's statistics may be used just for showing how much people (and bots) visited some page and may not contain any personal data. By the way, this is what exactly I'm doing [here](https://github.com/nogaems/anonstat).
 
 
